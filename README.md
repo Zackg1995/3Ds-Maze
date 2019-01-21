@@ -1,5 +1,5 @@
 # 3Ds-Maze
-3D Maze Game - CI224 </br>
+3D Maze Game - CI224 - Assignment 1</br>
 
 Student Name: Zachary Grigor</br>
 Student number: 16826200</br>
